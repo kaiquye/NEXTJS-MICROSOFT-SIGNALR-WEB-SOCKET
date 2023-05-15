@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\WebSocketSginalR.API.props" />
-</Project>
