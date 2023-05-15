@@ -1,4 +1,5 @@
-## @microsoft signalR & Next.Js WEB-SOCKET
+###  WEB-SOCKET
+## @microsoft signalR & Next.Js
 
 SignalR is a .NET library for real-time client-server communication using websockets. Next.js is a server-side rendering framework for React that allows for server-client web app development.
 
