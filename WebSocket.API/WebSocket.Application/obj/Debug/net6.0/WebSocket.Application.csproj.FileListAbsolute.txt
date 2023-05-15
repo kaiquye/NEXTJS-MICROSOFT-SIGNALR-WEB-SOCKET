@@ -1,0 +1,12 @@
+C:\Users\Admin\OneDrive\Área de Trabalho\WebSocket\WebSocket.API\WebSocket.Application\bin\Debug\net6.0\WebSocket.Application.deps.json
+C:\Users\Admin\OneDrive\Área de Trabalho\WebSocket\WebSocket.API\WebSocket.Application\bin\Debug\net6.0\WebSocket.Application.dll
+C:\Users\Admin\OneDrive\Área de Trabalho\WebSocket\WebSocket.API\WebSocket.Application\bin\Debug\net6.0\WebSocket.Application.pdb
+C:\Users\Admin\OneDrive\Área de Trabalho\WebSocket\WebSocket.API\WebSocket.Application\obj\Debug\net6.0\WebSocket.Application.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Área de Trabalho\WebSocket\WebSocket.API\WebSocket.Application\obj\Debug\net6.0\WebSocket.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Área de Trabalho\WebSocket\WebSocket.API\WebSocket.Application\obj\Debug\net6.0\WebSocket.Application.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Área de Trabalho\WebSocket\WebSocket.API\WebSocket.Application\obj\Debug\net6.0\WebSocket.Application.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Área de Trabalho\WebSocket\WebSocket.API\WebSocket.Application\obj\Debug\net6.0\WebSocket.Application.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Área de Trabalho\WebSocket\WebSocket.API\WebSocket.Application\obj\Debug\net6.0\WebSocket.Application.dll
+C:\Users\Admin\OneDrive\Área de Trabalho\WebSocket\WebSocket.API\WebSocket.Application\obj\Debug\net6.0\refint\WebSocket.Application.dll
+C:\Users\Admin\OneDrive\Área de Trabalho\WebSocket\WebSocket.API\WebSocket.Application\obj\Debug\net6.0\WebSocket.Application.pdb
+C:\Users\Admin\OneDrive\Área de Trabalho\WebSocket\WebSocket.API\WebSocket.Application\obj\Debug\net6.0\ref\WebSocket.Application.dll

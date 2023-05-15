@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "KHpIRux45qRNUmnpb7yBY4jjoc8tRkS43/Llmr/AG+TtPzvVK+W2Wn/aRMfKOSuTTsmn03+b/0nb02+YDKoQwA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\OneDrive\\Área de Trabalho\\WebSocket\\WebSocket.API\\WebSocket.Application\\WebSocket.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

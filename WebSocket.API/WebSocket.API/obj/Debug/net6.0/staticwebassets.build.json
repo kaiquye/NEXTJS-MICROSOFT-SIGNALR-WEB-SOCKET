@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "C/AUduR/sxdrzEEWGY2DqY42IvYZLG5V6TXzB4r5dtc=",
+  "Source": "WebSocket.API",
+  "BasePath": "_content/WebSocket.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
