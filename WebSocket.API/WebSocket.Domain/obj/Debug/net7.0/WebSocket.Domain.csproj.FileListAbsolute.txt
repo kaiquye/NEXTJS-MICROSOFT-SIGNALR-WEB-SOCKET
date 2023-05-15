@@ -1,0 +1,12 @@
+C:\Users\Admin\RiderProjects\WebSocket.Api\WebSocket.Domain\bin\Debug\net7.0\WebSocket.Domain.deps.json
+C:\Users\Admin\RiderProjects\WebSocket.Api\WebSocket.Domain\bin\Debug\net7.0\WebSocket.Domain.dll
+C:\Users\Admin\RiderProjects\WebSocket.Api\WebSocket.Domain\bin\Debug\net7.0\WebSocket.Domain.pdb
+C:\Users\Admin\RiderProjects\WebSocket.Api\WebSocket.Domain\obj\Debug\net7.0\WebSocket.Domain.csproj.AssemblyReference.cache
+C:\Users\Admin\RiderProjects\WebSocket.Api\WebSocket.Domain\obj\Debug\net7.0\WebSocket.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\RiderProjects\WebSocket.Api\WebSocket.Domain\obj\Debug\net7.0\WebSocket.Domain.AssemblyInfoInputs.cache
+C:\Users\Admin\RiderProjects\WebSocket.Api\WebSocket.Domain\obj\Debug\net7.0\WebSocket.Domain.AssemblyInfo.cs
+C:\Users\Admin\RiderProjects\WebSocket.Api\WebSocket.Domain\obj\Debug\net7.0\WebSocket.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\WebSocket.Api\WebSocket.Domain\obj\Debug\net7.0\WebSocket.Domain.dll
+C:\Users\Admin\RiderProjects\WebSocket.Api\WebSocket.Domain\obj\Debug\net7.0\refint\WebSocket.Domain.dll
+C:\Users\Admin\RiderProjects\WebSocket.Api\WebSocket.Domain\obj\Debug\net7.0\WebSocket.Domain.pdb
+C:\Users\Admin\RiderProjects\WebSocket.Api\WebSocket.Domain\obj\Debug\net7.0\ref\WebSocket.Domain.dll

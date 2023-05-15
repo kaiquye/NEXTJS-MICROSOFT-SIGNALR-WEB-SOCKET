@@ -1,32 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\OneDrive\\Área de Trabalho\\WebSocket\\WebSocket.API\\WebSocket.Domain\\WebSocket.Domain.csproj": {}
+    "C:\\Users\\Admin\\RiderProjects\\WebSocket.Api\\WebSocket.Domain\\WebSocket.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\OneDrive\\Área de Trabalho\\WebSocket\\WebSocket.API\\WebSocket.Domain\\WebSocket.Domain.csproj": {
+    "C:\\Users\\Admin\\RiderProjects\\WebSocket.Api\\WebSocket.Domain\\WebSocket.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\OneDrive\\Área de Trabalho\\WebSocket\\WebSocket.API\\WebSocket.Domain\\WebSocket.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\RiderProjects\\WebSocket.Api\\WebSocket.Domain\\WebSocket.Domain.csproj",
         "projectName": "WebSocket.Domain",
-        "projectPath": "C:\\Users\\Admin\\OneDrive\\Área de Trabalho\\WebSocket\\WebSocket.API\\WebSocket.Domain\\WebSocket.Domain.csproj",
+        "projectPath": "C:\\Users\\Admin\\RiderProjects\\WebSocket.Api\\WebSocket.Domain\\WebSocket.Domain.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\OneDrive\\Área de Trabalho\\WebSocket\\WebSocket.API\\WebSocket.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\RiderProjects\\WebSocket.Api\\WebSocket.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net7.0": {
+            "targetAlias": "net7.0",
             "projectReferences": {}
           }
         },
@@ -37,8 +35,8 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "imports": [
             "net461",
             "net462",
@@ -50,20 +48,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.16, 6.0.16]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.16, 6.0.16]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.16, 6.0.16]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"

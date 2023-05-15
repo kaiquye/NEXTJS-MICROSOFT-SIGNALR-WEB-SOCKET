@@ -1,0 +1,17 @@
+C:\Users\Admin\RiderProjects\WebSocket.Api\WebSocket.Infra\bin\Debug\net7.0\WebSocket.Infra.deps.json
+C:\Users\Admin\RiderProjects\WebSocket.Api\WebSocket.Infra\bin\Debug\net7.0\WebSocket.Infra.dll
+C:\Users\Admin\RiderProjects\WebSocket.Api\WebSocket.Infra\bin\Debug\net7.0\WebSocket.Infra.pdb
+C:\Users\Admin\RiderProjects\WebSocket.Api\WebSocket.Infra\bin\Debug\net7.0\WebSocket.Domain.dll
+C:\Users\Admin\RiderProjects\WebSocket.Api\WebSocket.Infra\bin\Debug\net7.0\WebSocket.Domain.pdb
+C:\Users\Admin\RiderProjects\WebSocket.Api\WebSocket.Infra\obj\Debug\net7.0\WebSocket.Infra.csproj.AssemblyReference.cache
+C:\Users\Admin\RiderProjects\WebSocket.Api\WebSocket.Infra\obj\Debug\net7.0\WebSocket.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\RiderProjects\WebSocket.Api\WebSocket.Infra\obj\Debug\net7.0\WebSocket.Infra.AssemblyInfoInputs.cache
+C:\Users\Admin\RiderProjects\WebSocket.Api\WebSocket.Infra\obj\Debug\net7.0\WebSocket.Infra.AssemblyInfo.cs
+C:\Users\Admin\RiderProjects\WebSocket.Api\WebSocket.Infra\obj\Debug\net7.0\WebSocket.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\WebSocket.Api\WebSocket.Infra\obj\Debug\net7.0\WebSocket.Infra.csproj.CopyComplete
+C:\Users\Admin\RiderProjects\WebSocket.Api\WebSocket.Infra\obj\Debug\net7.0\WebSocket.Infra.dll
+C:\Users\Admin\RiderProjects\WebSocket.Api\WebSocket.Infra\obj\Debug\net7.0\refint\WebSocket.Infra.dll
+C:\Users\Admin\RiderProjects\WebSocket.Api\WebSocket.Infra\obj\Debug\net7.0\WebSocket.Infra.pdb
+C:\Users\Admin\RiderProjects\WebSocket.Api\WebSocket.Infra\obj\Debug\net7.0\ref\WebSocket.Infra.dll
+C:\Users\Admin\RiderProjects\WebSocket.Api\WebSocket.Infra\bin\Debug\net7.0\WebSocket.Infra.runtimeconfig.json
+C:\Users\Admin\RiderProjects\WebSocket.Api\WebSocket.Infra\obj\Debug\net7.0\WebSocket.Infra.genruntimeconfig.cache
