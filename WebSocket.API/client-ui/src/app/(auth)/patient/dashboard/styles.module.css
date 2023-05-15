@@ -1,0 +1,149 @@
+
+.main {
+    width: 100%;
+    min-height: 100vh;
+    background-color: #eeeeee;
+    display: grid;
+    grid-template-columns: 100%;
+    grid-template-rows: 30% 30% 8%;
+}
+
+
+.main .call_screen {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+
+    gap: 10px;
+
+}
+
+.main .call_screen .current_user {
+    display: flex;
+    gap: 10px;
+    font-family: Arial;
+    font-size: 40px;
+}
+
+.main .call_screen .current_user div {
+    display: flex;
+
+}
+
+
+.main .call_screen .current_user label {
+    font-weight: 600;
+    padding-left: 50px;
+}
+
+
+.main .main_patients {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+}
+
+.main .table_patients {
+    width: 80%;
+    height: 700px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    overflow-y: auto;
+    -layout: fixed;
+}
+
+.main .table_patients table {
+    width: 1200px;
+    overflow-y: auto;
+    background-color: rgba(220, 220, 220, 0.8);
+}
+
+.main .table_patients table td {
+    padding-top: 2px;
+    border-radius: 4px;
+    background-color: white;
+    padding-bottom: 10px;
+}
+
+.main .table_patients .btnCallPatient {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+}
+
+.main .table_patients table thead th {
+    background-color: #727272;
+    text-align: left;
+    justify-content: center;
+    top: 0;
+    position: sticky;
+    color: #dadada;
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-bottom:  5px;
+}
+.main .table_patients td {
+    padding-left: 5px;
+    max-height: 10px;
+    background-origin: red;
+}
+.main .form_patients {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+}
+
+.main .table_patients .patientInfo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+}
+
+.main .form_patients .title_register_patient {
+    padding-top: 10px;
+}
+
+.main .form_patients form {
+    width: 80%;
+    gap: 10px;
+    padding-left: 10px;
+
+    display: flex;
+    align-items: center;
+}
+
+.main .form_patients .btnsForm {
+    display: flex;
+    padding-top: 22px;
+    flex-direction: row;
+    gap: 10px;
+}
+
+
+@media (max-width: 914px) {
+    .main .call_screen .current_user {
+        display: flex;
+        flex-direction: column;
+        font-size: 24px;
+        justify-content: left;
+        align-items: flex-start;
+    }
+}
+
+@media (max-width: 414px) {
+    /*.main .menu {*/
+    /*    display: none;*/
+    /*}*/
+}

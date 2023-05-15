@@ -1,0 +1,69 @@
+.main {
+    display: grid;
+    grid-template-columns: 30% 70%;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    min-width: 100%;
+    min-height: 5vh;
+    max-height: 7vh;
+    background-color: #104786;
+    color: #f6f6f6;
+    font-family: Arial;
+    box-shadow: inset 1px -1px 10px 10px #084a96
+}
+
+.main img {
+    width: 40px;
+}
+
+.main .logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main .menu {
+    width: 70%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main .menu button {
+    width: 40%;
+    border: none;
+    background-color: rgba(255, 255, 255, 0);
+    color: white;
+    font-weight: 600;
+    font-family: Arial;
+}
+
+
+.main .menu button:hover {
+    background-color: rgba(255, 255, 255, 0);
+    color: #3b3b3b;
+    cursor: pointer;
+}
+
+.registerNewPatient {
+    color: white;
+    text-decoration: none;
+}
+
+
+@media (max-width: 914px) {
+    .main {
+        display: flex;
+        font-size: 15px;
+    }
+    .main .menu {
+        display: none;
+    }
+}
+
+@media (max-width: 414px) {
+    .main .menu {
+        display: none;
+    }
+}

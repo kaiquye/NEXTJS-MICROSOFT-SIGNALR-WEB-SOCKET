@@ -1,0 +1,19 @@
+.main {
+    min-width: 95px;
+    width: 100%;
+    height: 30px;
+    border: none;
+    background-color: #2868de;
+    border-radius: 4px;
+    font-weight: 600;
+    color: #e8e8e8;
+    padding: 5px;
+}
+
+.main:hover {
+    cursor: pointer;
+    color: black;
+    background-color: #bad8ee;
+    box-shadow: inset 1px -1px 10px 45px rgba(255, 255, 255, 0.32);
+}
+

@@ -1,0 +1,81 @@
+
+
+.main {
+    display: flex;
+    flex-direction: column;
+
+    width: 100%;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+}
+
+.main h1 {
+    font-size: 50px;
+    color: blue;
+    padding-top: 70px;
+    font-family: Arial;
+}
+
+.main .patientInfo {
+    display: flex;
+    width: 80%;
+    height: 80%;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+
+}
+
+.main .patientInfo div p {
+    color: blue;
+}
+
+.main .patientInfo div {
+    max-width: 600px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    text-align: center;
+}
+
+.main .patientInfo div label {
+    font-size: 40px;
+    font-family: Arial;
+}
+
+.main .patientInfo div p {
+    color: blue;
+    font-size: 40px;
+    font-family: Arial;
+    padding-left: 2px;
+}
+
+
+@media (max-width: 914px) {
+    .main .patientInfo div label {
+        font-size: 30px;
+    }
+}
+
+@media (max-width: 704px) {
+    .main .patientInfo {
+        flex-direction: column;
+    }
+    .main .patientInfo div label {
+        font-size: 45px;
+    }
+}
+
+@media (max-width: 414px) {
+    /*.main .menu {*/
+    /*    display: none;*/
+    /*}*/
+}
